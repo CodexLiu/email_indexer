@@ -1,0 +1,40 @@
+From: Dr. Michael Chang <mchang@digestiva.com>
+To: Research Team <research@digestiva.com>
+Date: 2024-01-22 08:30:00 UTC-08:00
+Subject: New Drug Delivery Patent Application
+
+Content:
+Team,
+
+We're moving forward with the patent application for our novel drug delivery system. Key innovations:
+
+1. Targeted release mechanism
+2. Improved bioavailability (45% increase)
+3. Reduced side effects profile
+
+Please review the attached technical specifications and provide feedback by Friday.
+
+Best,
+Michael
+
+--------------------------------------------------------------------------------
+
+From: Dr. Lisa Rodriguez <lrodriguez@digestiva.com>
+To: Dr. Michael Chang <mchang@digestiva.com>
+Cc: Research Team <research@digestiva.com>
+Date: 2024-01-23 11:15:00 UTC-08:00
+Subject: Re: New Drug Delivery Patent Application
+
+Content:
+Michael,
+
+I've reviewed the specifications. A few suggestions:
+
+1. Include the pH-dependent release data
+2. Add the stability studies in simulated gastric fluid
+3. Expand on the particle size distribution analysis
+
+The bioavailability improvement is particularly impressive. This could be a major advancement in oral drug delivery.
+
+Best,
+Lisa

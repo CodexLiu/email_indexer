@@ -1,0 +1,35 @@
+From: Dr. James Wilson <jwilson@digestiva.com>
+To: Dr. Sarah Chen <schen@digestiva.com>
+Date: 2024-02-07 11:20:00 UTC-08:00
+Subject: Manufacturing Scale-up - Enzyme Production
+
+Content:
+Sarah,
+
+The manufacturing team has completed the scale-up validation for the stabilized enzyme:
+
+1. Batch size: 500L successful
+2. Stability consistent with lab results
+3. Production costs 35% lower than current method
+4. All QC parameters within specification
+
+This data supports our patent claims about commercial viability.
+
+James
+
+--------------------------------------------------------------------------------
+
+From: Dr. Sarah Chen <schen@digestiva.com>
+To: Dr. James Wilson <jwilson@digestiva.com>
+Cc: Mark Thompson <mthompson@digestiva-legal.com>
+Date: 2024-02-07 14:45:00 UTC-08:00
+Subject: Re: Manufacturing Scale-up - Enzyme Production
+
+Content:
+James,
+
+Excellent results. I've forwarded this to Mark for inclusion in the patent application. The successful scale-up demonstration strengthens our claims significantly.
+
+The 35% cost reduction exceeds our initial projections. This will be valuable for both the patent and future commercialization discussions.
+
+Sarah

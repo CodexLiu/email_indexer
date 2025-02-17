@@ -1,0 +1,34 @@
+From: Dr. Sarah Chen <schen@digestiva.com>
+To: Mark Thompson <mthompson@digestiva-legal.com>
+Date: 2024-02-12 09:30:00 UTC-08:00
+Subject: Re: Final Patent Draft Review - Enzyme Stabilization
+
+Content:
+Mark,
+
+I've reviewed the final draft. The technical content is accurate and comprehensive. A few minor suggestions:
+
+1. Add the 500L scale-up validation data
+2. Emphasize the 35% production cost reduction
+3. Include the full temperature stability curve
+
+Otherwise, it's ready for submission.
+
+Sarah
+
+--------------------------------------------------------------------------------
+
+From: Mark Thompson <mthompson@digestiva-legal.com>
+To: Dr. Sarah Chen <schen@digestiva.com>
+Date: 2024-02-12 14:15:00 UTC-08:00
+Subject: Re: Final Patent Draft Review - Enzyme Stabilization
+
+Content:
+Sarah,
+
+Thanks for the quick review. I'll incorporate these changes today. The scale-up data and cost reduction figures will strengthen our commercial viability claims.
+
+We're still on track for filing by month-end. I'll send you the updated draft tomorrow for final approval.
+
+Best regards,
+Mark

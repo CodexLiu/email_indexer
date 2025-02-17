@@ -1,0 +1,39 @@
+From: IT Support <it@digestiva.com>
+To: All Staff <all-staff@digestiva.com>
+Date: 2024-01-16 10:00:00 UTC-08:00
+Subject: System Maintenance Notice
+
+Content:
+Dear Colleagues,
+
+The following IT maintenance is scheduled:
+
+1. Network upgrade: January 20-21
+2. Email server maintenance: January 22
+3. Database backup: January 23
+4. Security patches: January 24
+
+Please save all work and log out before leaving on January 19th.
+
+Best regards,
+IT Support
+
+--------------------------------------------------------------------------------
+
+From: Dr. Sarah Chen <schen@digestiva.com>
+To: IT Support <it@digestiva.com>
+Date: 2024-01-16 11:30:00 UTC-08:00
+Subject: Re: System Maintenance Notice
+
+Content:
+Hi IT,
+
+The R&D team needs access to the lab data systems during the maintenance period for ongoing stability tests. Can you ensure these systems remain accessible?
+
+Critical systems:
+- Temperature monitoring
+- Data logging servers
+- Lab equipment network
+
+Thanks,
+Sarah

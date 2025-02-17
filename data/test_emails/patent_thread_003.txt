@@ -1,0 +1,63 @@
+From: Mark Thompson <mthompson@digestiva-legal.com>
+To: Dr. Sarah Chen <schen@digestiva.com>
+Cc: Legal Team <legal@digestiva.com>
+Date: 2024-02-01 09:15:00 UTC-08:00
+Subject: Patent Draft Review - Enzyme Stabilization Method
+
+Content:
+Sarah,
+
+I've completed the first draft of the patent application for our enzyme stabilization method. Key sections include:
+
+1. Background
+2. Technical Description
+3. Claims (20 total)
+4. Examples and Data
+
+Please review and let me know if any technical details need adjustment. We should aim to file by end of February.
+
+Best,
+Mark
+
+--------------------------------------------------------------------------------
+
+From: Dr. Sarah Chen <schen@digestiva.com>
+To: Mark Thompson <mthompson@digestiva-legal.com>
+Cc: Dr. James Wilson <jwilson@digestiva.com>
+Date: 2024-02-05 14:20:00 UTC-08:00
+Subject: Re: Patent Draft Review - Enzyme Stabilization Method
+
+Content:
+Mark,
+
+I've reviewed the draft with James. Overall, it looks good, but we have a few suggestions:
+
+1. Expand claim 5 to cover the full temperature range (15-30°C)
+2. Add specific examples from our 14-month stability study
+3. Include the energy cost comparison data
+4. Add details about the protein scaffold mechanism
+
+Also, we have some new data showing even better stability at 25°C. Should we include this?
+
+Best,
+Sarah
+
+--------------------------------------------------------------------------------
+
+From: Mark Thompson <mthompson@digestiva-legal.com>
+To: Dr. Sarah Chen <schen@digestiva.com>
+Cc: Dr. James Wilson <jwilson@digestiva.com>
+Date: 2024-02-08 11:30:00 UTC-08:00
+Subject: Re: Patent Draft Review - Enzyme Stabilization Method
+
+Content:
+Sarah,
+
+Excellent suggestions. I'll revise the draft to incorporate all these points. The new stability data at 25°C would strengthen our claims significantly - please send it over.
+
+I've also added a new dependent claim specifically addressing the protein scaffold mechanism, as this appears to be a key differentiator from prior art.
+
+I'll have the revised draft ready by February 15th, keeping us on track for month-end filing.
+
+Best regards,
+Mark

@@ -1,0 +1,38 @@
+From: Dr. Lisa Rodriguez <lrodriguez@digestiva.com>
+To: Dr. Michael Chang <mchang@digestiva.com>
+Date: 2024-02-08 13:15:00 UTC-08:00
+Subject: Manufacturing Protocol - Nanoparticle System
+
+Content:
+Michael,
+
+The manufacturing protocol for the nanoparticle delivery system is ready:
+
+1. Batch size: 100L validated
+2. Process parameters optimized:
+   - Temperature: 25±2°C
+   - Mixing speed: 450 rpm
+   - Particle size distribution: CV < 10%
+
+Documentation is ready for patent inclusion.
+
+Lisa
+
+--------------------------------------------------------------------------------
+
+From: Dr. Michael Chang <mchang@digestiva.com>
+To: Dr. Lisa Rodriguez <lrodriguez@digestiva.com>
+Date: 2024-02-08 16:30:00 UTC-08:00
+Subject: Re: Manufacturing Protocol - Nanoparticle System
+
+Content:
+Lisa,
+
+The protocol looks good. Please add:
+1. Equipment specifications
+2. In-process controls
+3. Critical quality attributes
+
+We'll need this for both the patent application and eventual tech transfer.
+
+Michael

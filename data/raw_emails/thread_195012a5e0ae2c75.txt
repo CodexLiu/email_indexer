@@ -1,0 +1,31 @@
+From: Cody Liu <codliu@ucdavis.edu>
+To: "liu@digestiva.com" <liu@digestiva.com>
+Date: 2025-02-13 13:14:57 UTC-08:00
+Subject: 
+
+Content:
+I need to know your timeline on the project. How much longer will it take?
+
+
+--------------------------------------------------------------------------------
+
+From: liu@digestiva.com
+To: codliu@ucdavis.edu
+Date: 2025-02-13 16:17:39 UTC-05:00
+Subject: Re: Project Timeline Update
+
+Content:
+Hi Cody,
+
+I understand you're looking for an update on the project timeline. We've encountered some challenges with the 50L production run that have impacted our original schedule. I can provide a more detailed review of where we stand:
+
+- The 50L batch had to be terminated during the production phase
+- We need to reassess the timeline for the subsequent 250L run and R&D trials
+- The downstream processing steps (filtration, spray drying) are pending this review
+
+Could we schedule a brief meeting to discuss these challenges and align on a revised timeline? I want to ensure we have a solid plan moving forward that accounts for the lessons learned from the 50L run.
+
+Best,
+Cody
+
+--------------------------------------------------------------------------------

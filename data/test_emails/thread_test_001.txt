@@ -1,0 +1,35 @@
+From: Dr. Sarah Chen <schen@digestiva.com>
+To: Mark Thompson <mthompson@digestiva-legal.com>
+Date: 2024-01-28 14:20:00 UTC-08:00
+Subject: Cost Analysis - Enzyme Patent
+
+Content:
+Mark,
+
+I've completed the cost analysis for our stabilized enzyme production:
+
+1. Storage cost reduction: 75% compared to refrigerated methods
+2. Energy savings: ~$120,000 annually per facility
+3. Reduced waste: 15% improvement in product lifecycle
+
+Please include these figures in the patent's commercial advantages section.
+
+Best,
+Sarah
+
+--------------------------------------------------------------------------------
+
+From: Mark Thompson <mthompson@digestiva-legal.com>
+To: Dr. Sarah Chen <schen@digestiva.com>
+Date: 2024-01-29 10:45:00 UTC-08:00
+Subject: Re: Cost Analysis - Enzyme Patent
+
+Content:
+Sarah,
+
+This is excellent data for the commercial viability section. The energy savings alone make a compelling case. I'll add a specific claim about the cost-efficiency of room temperature storage.
+
+The patent draft is nearly complete. We should be ready for internal review by end of week.
+
+Best,
+Mark

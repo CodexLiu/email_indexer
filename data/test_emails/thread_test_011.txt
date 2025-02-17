@@ -1,0 +1,35 @@
+From: Dr. Lisa Rodriguez <lrodriguez@digestiva.com>
+To: Dr. Michael Chang <mchang@digestiva.com>
+Date: 2024-02-02 11:30:00 UTC-08:00
+Subject: Biodistribution Study Results - Nanoparticle Patent
+
+Content:
+Michael,
+
+The biodistribution studies for our nanoparticle delivery system are complete:
+
+- Liver accumulation: 15% reduction
+- Target tissue uptake: 2.5x improvement
+- Blood circulation time: 24 hours
+- Renal clearance: Within safety parameters
+
+These results support our novel targeting claims.
+
+Lisa
+
+--------------------------------------------------------------------------------
+
+From: Dr. Michael Chang <mchang@digestiva.com>
+To: Dr. Lisa Rodriguez <lrodriguez@digestiva.com>
+Cc: Patent Committee <patent-committee@digestiva.com>
+Date: 2024-02-02 15:45:00 UTC-08:00
+Subject: Re: Biodistribution Study Results - Nanoparticle Patent
+
+Content:
+Lisa,
+
+The biodistribution data looks promising. Let's schedule a meeting with legal next week to discuss patent filing strategy. The improved tissue targeting with reduced liver accumulation is a significant advancement.
+
+We should also prepare a competitive analysis comparing our results with existing delivery systems.
+
+Michael

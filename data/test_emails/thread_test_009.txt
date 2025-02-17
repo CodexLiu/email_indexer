@@ -1,0 +1,38 @@
+From: Dr. Emily Chen <echen@digestiva.com>
+To: Dr. Robert Kim <rkim@digestiva.com>
+Date: 2024-01-29 10:15:00 UTC-08:00
+Subject: Re: Bioreactor Scale-up Results
+
+Content:
+Robert,
+
+Scale-up validation results for the new bioreactor:
+
+- 2000L capacity achieved
+- Oxygen transfer rate: 1.2 mmol/L/h
+- Temperature control: ±0.2°C
+- Energy consumption: 40% reduction
+
+These results support moving forward with the patent application.
+
+Emily
+
+--------------------------------------------------------------------------------
+
+From: Dr. Robert Kim <rkim@digestiva.com>
+To: Dr. Emily Chen <echen@digestiva.com>
+Cc: Patent Committee <patent-committee@digestiva.com>
+Date: 2024-01-29 15:40:00 UTC-08:00
+Subject: Re: Bioreactor Scale-up Results
+
+Content:
+Emily,
+
+Great results. I've scheduled a meeting with legal for next week to discuss the patent application. The energy reduction alone makes this technology valuable.
+
+We should also prepare:
+1. Detailed engineering drawings
+2. Control system documentation
+3. Comparative analysis with existing systems
+
+Robert

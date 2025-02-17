@@ -1,0 +1,40 @@
+From: Dr. Lisa Rodriguez <lrodriguez@digestiva.com>
+To: Patent Committee <patent-committee@digestiva.com>
+Date: 2024-01-26 09:45:00 UTC-08:00
+Subject: Nanoparticle Delivery System Patent
+
+Content:
+Committee,
+
+Our nanoparticle delivery system has shown promising results:
+
+- Particle size: 50-100nm
+- Drug loading: 85% efficiency
+- Controlled release over 48 hours
+- Enhanced tissue penetration
+
+I recommend we proceed with patent filing. The technology shows significant advantages over current methods.
+
+Best,
+Lisa
+
+--------------------------------------------------------------------------------
+
+From: Dr. Michael Chang <mchang@digestiva.com>
+To: Dr. Lisa Rodriguez <lrodriguez@digestiva.com>
+Cc: Patent Committee <patent-committee@digestiva.com>
+Date: 2024-01-26 14:30:00 UTC-08:00
+Subject: Re: Nanoparticle Delivery System Patent
+
+Content:
+Lisa,
+
+The results are encouraging. Before proceeding with the patent, we should:
+
+1. Complete the biodistribution studies
+2. Gather more stability data
+3. Document the manufacturing process
+
+Let's meet next week to discuss the patent strategy.
+
+Michael

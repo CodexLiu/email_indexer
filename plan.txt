@@ -1,0 +1,26 @@
+Ingestion
+Upload all emails threads and attachments
+For all attachments transcribe and concat to email (add a label specifying that the below is an attachment)
+
+Send to txt
+Summarize and multi summary if context > 200k. 
+Upload to cloudflare get link
+Upload full object + vector to pinecone
+
+Retrieval 
+
+Create an understanding of “what am I looking for?”
+
+Common schemas:
+Emails about x.
+Emails in threads involving x etc. 
+
+Create search query
+
+Query database
+
+Return normalized > 0.2 
+
+Parallel information extraction
+
+Synthesize final answer with a reasoning model

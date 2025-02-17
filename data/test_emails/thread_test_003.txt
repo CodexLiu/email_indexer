@@ -1,0 +1,33 @@
+From: Dr. Sarah Chen <schen@digestiva.com>
+To: Mark Thompson <mthompson@digestiva-legal.com>
+Date: 2024-01-30 15:45:00 UTC-08:00
+Subject: Additional Data - Enzyme Patent
+
+Content:
+Mark,
+
+The 28°C validation tests are complete. Results:
+- 96% activity retention after 15 months
+- Consistent protein structure maintenance
+- Minimal variation between batches (<2%)
+
+This extends our temperature range claim and further differentiates our method from competitors.
+
+Sarah
+
+--------------------------------------------------------------------------------
+
+From: Mark Thompson <mthompson@digestiva-legal.com>
+To: Dr. Sarah Chen <schen@digestiva.com>
+Date: 2024-01-31 09:20:00 UTC-08:00
+Subject: Re: Additional Data - Enzyme Patent
+
+Content:
+Sarah,
+
+Perfect timing. I'll incorporate this data into the final draft. The extended temperature range significantly strengthens our claims.
+
+I've scheduled the internal review meeting for February 5th. Please block your calendar.
+
+Best regards,
+Mark

@@ -1,0 +1,36 @@
+From: HR Team <hr@digestiva.com>
+To: All Staff <all-staff@digestiva.com>
+Date: 2024-01-17 09:00:00 UTC-08:00
+Subject: Annual Performance Review Schedule
+
+Content:
+Dear Colleagues,
+
+The annual performance review cycle for 2024 begins next week. Key dates:
+
+- Self-evaluations due: January 31
+- Manager reviews: February 1-15
+- Review meetings: February 16-28
+- Final documentation: March 15
+
+Please complete your self-evaluations using the new HR portal.
+
+Best regards,
+HR Team
+
+--------------------------------------------------------------------------------
+
+From: John Smith <jsmith@digestiva.com>
+To: HR Team <hr@digestiva.com>
+Date: 2024-01-17 10:30:00 UTC-08:00
+Subject: Re: Annual Performance Review Schedule
+
+Content:
+Hi HR Team,
+
+Could you provide access instructions for the new HR portal? Several team members are having trouble logging in.
+
+Also, will there be training sessions for the new evaluation format?
+
+Thanks,
+John

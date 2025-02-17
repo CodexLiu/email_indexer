@@ -1,0 +1,37 @@
+From: Dr. Sarah Chen <schen@digestiva.com>
+To: Patent Review Committee <patent-review@digestiva.com>
+Date: 2024-02-05 10:00:00 UTC-08:00
+Subject: Enzyme Patent - Internal Review Meeting
+
+Content:
+Committee Members,
+
+Today's review of the enzyme stabilization patent was successful. Key points approved:
+
+1. Temperature range claims (15-30°C)
+2. Stability duration (15 months with >94% activity)
+3. Cost savings documentation
+4. Competitive advantage analysis
+
+Legal team will proceed with final draft for submission by month-end.
+
+Best,
+Sarah
+
+--------------------------------------------------------------------------------
+
+From: Mark Thompson <mthompson@digestiva-legal.com>
+To: Dr. Sarah Chen <schen@digestiva.com>
+Cc: Patent Review Committee <patent-review@digestiva.com>
+Date: 2024-02-05 16:30:00 UTC-08:00
+Subject: Re: Enzyme Patent - Internal Review Meeting
+
+Content:
+Sarah,
+
+Excellent meeting today. I've incorporated all the committee's suggestions. The final draft will be ready for your review by February 12th, keeping us on track for month-end filing.
+
+The comprehensive stability data across temperature ranges makes for a very strong patent application.
+
+Best regards,
+Mark

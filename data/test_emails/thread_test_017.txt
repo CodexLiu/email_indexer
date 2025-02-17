@@ -1,0 +1,34 @@
+From: Dr. Sarah Chen <schen@digestiva.com>
+To: Mark Thompson <mthompson@digestiva-legal.com>
+Date: 2024-02-15 09:00:00 UTC-08:00
+Subject: Patent Filing Status - Enzyme Stabilization
+
+Content:
+Mark,
+
+Just checking on the patent filing status. Are we still on track for February 20th submission?
+
+Also, have you received all the necessary supporting documentation for:
+1. Scale-up validation
+2. Temperature stability curves
+3. Cost analysis
+
+Best,
+Sarah
+
+--------------------------------------------------------------------------------
+
+From: Mark Thompson <mthompson@digestiva-legal.com>
+To: Dr. Sarah Chen <schen@digestiva.com>
+Date: 2024-02-15 10:45:00 UTC-08:00
+Subject: Re: Patent Filing Status - Enzyme Stabilization
+
+Content:
+Sarah,
+
+Yes, we're on track for February 20th. All documentation has been received and processed. The application package is complete and undergoing final quality check.
+
+I'll send you the submission confirmation once filed.
+
+Best regards,
+Mark

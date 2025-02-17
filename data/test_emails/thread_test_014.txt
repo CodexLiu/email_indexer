@@ -1,0 +1,36 @@
+From: Facilities Team <facilities@digestiva.com>
+To: All Staff <all-staff@digestiva.com>
+Date: 2024-01-21 08:00:00 UTC-08:00
+Subject: Building Maintenance Schedule
+
+Content:
+Dear All,
+
+Please be advised of upcoming building maintenance:
+
+1. HVAC system upgrade: January 25-26
+2. Laboratory ventilation inspection: January 27
+3. Emergency generator testing: January 28
+4. Water system maintenance: January 29
+
+Some areas may have restricted access during these dates.
+
+Best regards,
+Facilities Team
+
+--------------------------------------------------------------------------------
+
+From: Dr. James Wilson <jwilson@digestiva.com>
+To: Facilities Team <facilities@digestiva.com>
+Date: 2024-01-21 09:15:00 UTC-08:00
+Subject: Re: Building Maintenance Schedule
+
+Content:
+Hi Facilities,
+
+The R&D lab needs continuous ventilation for ongoing stability tests. Can the inspection be rescheduled to February?
+
+Also, please ensure backup power during the generator testing as we have critical samples in the -80°C freezers.
+
+Thanks,
+James
