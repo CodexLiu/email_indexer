@@ -83,9 +83,3 @@ To generate a timeline based on your emails:
 ## Contributing
 
 Contributions are welcome! Please ensure any new features or fixes come with appropriate tests and documentation updates.
-
-## License
-
-[Include your license information here.]
-
-Happy indexing and timeline crafting!
